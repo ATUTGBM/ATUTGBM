@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ATUTGBM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+hi 
+im ayoub elkhadir 
+im 17 old
+im mobile programmer 
+my skills 
+  kotlin + android studio 
+  java + android studio
+  
+
 
 <!---
 ATUTGBM/ATUTGBM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
